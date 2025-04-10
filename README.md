@@ -1,7 +1,12 @@
 # letter-tiles 🧩
 Customizable Croatian and English letter tiles; perfect for creative projects, language learning, or unique design ideas.
 
-The files are optimized for 3D printing with PLA filament. The tiles below were printed on a Bambulab A1 mini using default settings.
+<div align="center">
+  <img src="letter-tiles.jpg" alt="letter-tiles" width="400">
+</div>
+
+
+The files are optimized for 3D printing with PLA filament. The tiles below were printed on a Bambulab A1 mini using default settings. In order to fill in the letter tiles once printed, I recommend using [this method](https://www.youtube.com/watch?v=W2f5lI1R6dg&list=WL&index=63).
 
 ## Files Included 📁  
 - [individual-tiles](individual-tiles): 3D-printable files (preview available on GitHub [for example](https://github.com/aav31/letter-tiles/blob/main/individual-tiles/letter-tiles%20v41_letter-tiles%20v41_%C5%BD_1_Body1.stl)).
